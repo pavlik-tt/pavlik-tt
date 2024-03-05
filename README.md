@@ -4,8 +4,7 @@
 👀 I’m interested in programming<br>
 🌱 I’m currently learning Python<br>
 📫 How to reach me:
-- **Reddit:** u/pavlik_tt
-- **E-Mail:** *no email*
+- idk
 
 <!---
 pavlik-tt/pavlik-tt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
